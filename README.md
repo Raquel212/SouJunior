@@ -47,7 +47,7 @@ O repositório adota uma organização direta na raiz para facilitar a visualiza
 
     SouJunior/
     ├── img/                       # Diretório contendo os assets visuais exportados
-    │   └── SouJunior, início.svg  # Logo da marca utilizado na navegação
+    │   └── SouJunior.svg          # Logo da marca utilizado na navegação
     ├── index.html                 # Ponto de entrada da Landing Page
     ├── script.js                  # Lógica de animação da interface
     └── styles.css                 # Estilos globais e layout responsivo
